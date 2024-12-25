@@ -1,0 +1,15 @@
+myAPI : call to get all products
+myAPI : call to get all products
+myAPI : call to get all products
+myAPI : call to get all products
+myAPI : template read for product with id 1
+MyAPI : hi
+	http://127.0.0.1:8000/depend/?tag=MyAPI&message=hi&separator=%23%23%23
+MyAPI : hi
+	http://127.0.0.1:8000/depend/?tag=MyAPI&message=hi&separator=%23%23%23
+MyAPI : no message
+	http://127.0.0.1:8000/depend/?tag=MyAPI&message=no%20message&separator=%5E%5E%5E%5E
+myAPI : call to get all products
+myAPI : call to get all products
+myAPI : call to get all products
+call to get all products : no message
